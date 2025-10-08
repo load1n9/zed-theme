@@ -1,0 +1,9 @@
+[extension]
+name = "Nyx"
+version = "0.1.0"
+description = "Theme based on one dark pro tuned to be darker"
+repository = "https://github.com/load1n9/zed-theme"
+[themes]
+files = [
+    "nyx.json"
+]
