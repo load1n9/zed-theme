@@ -1,9 +1,7 @@
-[extension]
+id = "nyx"
 name = "Nyx"
+description = "A dark theme for Zed editor inspired by One Dark Pro."
 version = "0.1.0"
-description = "Theme based on one dark pro tuned to be darker"
+schema_version = 1
+authors = ["Dean Srebnik"]
 repository = "https://github.com/load1n9/zed-theme"
-[themes]
-files = [
-    "nyx.json"
-]
